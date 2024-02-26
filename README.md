@@ -1,4 +1,4 @@
-Templte for an application I am planning
+Template for an application I am planning
 
 uses Next.JS, ASP.NET 8, Postgres EntityFramework
 
